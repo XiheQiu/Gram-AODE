@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 27 22:09:26 2022
-
-@author: SSJ
-"""
-
 import torch
 from torch.utils.data import Dataset
 from torch.utils.data import DataLoader
